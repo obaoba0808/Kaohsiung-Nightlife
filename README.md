@@ -23,7 +23,7 @@
 - 大帑殿 KTV
 
 ## 📞 推薦服務
-- [歐巴傳播](https://obaoba0808.github.io/FH/) — 台南/高雄專業傳播服務
+- [歐巴傳播](https://obaoba.online/) — 台南/高雄專業傳播服務
 - [飯局妹場合指南](https://obaoba0808.github.io/FH/business_dinner.html)
 - [一對一服務說明](https://obaoba0808.github.io/FH/one_by_one.html)
 - [安全與隱私](https://obaoba0808.github.io/FH/safety_privacy.html)
@@ -35,13 +35,13 @@
 
 ---
 
-*由 [歐巴傳播](https://obaoba0808.github.io/FH/) 維護*
+*高雄夜生活資訊*
 
 ---
 
 ## 🔗 官方網站
 
-[歐巴傳播 OBAOBA](https://obaoba.online/) — 台北專業傳播公司，24 小時服務，透明計費、50+ 合作據點。
+高雄與台南的聚會場所資訊，详见合作店家。
 
 - 預約／客服：**LINE @938nzmjr**｜**電話 0926-656666**
 - 收費行情：https://obaoba.online/how_much.html
